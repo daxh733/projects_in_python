@@ -7,12 +7,13 @@ This repo is a personal collection of fun and interesting Python-based projects 
 
 ## 🗂️ Projects
 
-| Project Name     | Description |
-|------------------|-------------|
-| 🖼️ Bitmap         | Draws ASCII art from bitmap patterns. A great exercise in string manipulation and control structures. |
-| 🃏 Blackjack       | A terminal-based Blackjack card game where you play against the computer. |
-| 💿 DVD Animation  | Simulates a bouncing DVD logo in the terminal — just like the nostalgic screensavers! |
-| 🎲 Bagels         | A number-guessing logic game where you deduce a secret number using clues like “Fermi”, “Pico”, and “Bagels”. |
+| Project Name      | Description |
+|-------------------|-------------|
+| 🖼️ Bitmap          | Draws ASCII art from bitmap patterns. A great exercise in string manipulation and control structures. |
+| 🃏 Blackjack        | A terminal-based Blackjack card game where you play against the computer. |
+| 💿 DVD Animation   | Simulates a bouncing DVD logo in the terminal — just like the nostalgic screensavers! |
+| 🎲 Bagels          | A number-guessing logic game where you deduce a secret number using clues like “Fermi”, “Pico”, and “Bagels”. |
+| 🔐 Caesar Cipher   | A classic encryption-decryption tool using the Caesar cipher. Great for understanding loops, string indexing, and basic cryptography. |
 
 ---
 
